@@ -1,1 +1,1 @@
-prettier --write **/**/*.java
+prettier --write **/**/*.{java,xml}
